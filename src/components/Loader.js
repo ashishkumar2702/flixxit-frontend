@@ -4,7 +4,7 @@ export default function Loader() {
     return (
         <div className='loading-container'>
             <div id="container-load">
-                <svg viewBox="0 0 100 100">
+                <svg viewBox="0 0 0 0">
                     <defs>
                         <filter id="shadow-load">
                             <feDropShadow dx="0" dy="0" stdDeviation="1.5"
